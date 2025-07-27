@@ -1,0 +1,12 @@
+Model,Accuracy
+Random Forest Accuracy,0.4433612
+Logistic Regression Accuracy,0.0047675
+KNN Accuracy,0.3318141
+Decision Tree Accuracy,0.5241577
+Naive Bayes Accuracy,0.7584599
+Gradient Boosting Accuracy,0.2049417
+AdaBoost Accuracy,0.2476357
+Extra Trees Accuracy,0.3890507
+XGBoost Accuracy,0.4109049
+LightGBM Accuracy,0.5344108
+CatBoost Accuracy,0.3138800
